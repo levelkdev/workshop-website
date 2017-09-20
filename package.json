@@ -1,0 +1,11 @@
+{
+  "name": "workshop-website",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "serve": "^6.1.0"
+  },
+  "scripts": {
+    "start": "serve"
+  }
+}
